@@ -10,9 +10,10 @@ Used mainly on cluttered-MNIST data set that can be found at https://github.com/
 to make quick changes to patch sizes and to the layers of the models.
 - Visualization of the salient patches 
 
-# Example of visualization of salient patches
+### Example of visualization of salient patches
 ![Example](example_mnist.png)
 
 ### To do: 
 - Implement hint loss
 - Experiment on other data sets
+- Evaluate results for all models and compare them to the paper's results
