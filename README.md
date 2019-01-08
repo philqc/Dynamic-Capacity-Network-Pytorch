@@ -9,6 +9,7 @@ Used mainly on cluttered-MNIST data set that can be found at https://github.com/
 - Code to compute the receptive field of the coarse and fine model that allow
 to make quick changes to patch sizes and to the layers of the models.
 - Visualization of the salient patches 
+![Example of visualization of salient patches](example_mnist.jpg)
 
 ### To do: 
 - Implement hint loss
