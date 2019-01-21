@@ -14,6 +14,5 @@ to make quick changes to patch sizes and to the layers of the models.
 ![Example](example_mnist.png)
 
 ### To do: 
-- Implement hint loss
 - Experiment on other data sets
 - Evaluate results for all models and compare them to the paper's results
